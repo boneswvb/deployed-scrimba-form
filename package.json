@@ -2,7 +2,7 @@
   "name": "scrimba-forms",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://boneswvb.github.io/deployed-scrimba-form/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
