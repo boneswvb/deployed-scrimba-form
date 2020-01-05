@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployed-scrimba-form/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/deployed-scrimba-form/static/js/main.4cb6f575.chunk.js",
+    "main.js.map": "/deployed-scrimba-form/static/js/main.4cb6f575.chunk.js.map",
+    "runtime-main.js": "/deployed-scrimba-form/static/js/runtime-main.2680b93f.js",
+    "runtime-main.js.map": "/deployed-scrimba-form/static/js/runtime-main.2680b93f.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/deployed-scrimba-form/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.92746d62.chunk.js": "/deployed-scrimba-form/static/js/2.92746d62.chunk.js",
+    "static/js/2.92746d62.chunk.js.map": "/deployed-scrimba-form/static/js/2.92746d62.chunk.js.map",
+    "index.html": "/deployed-scrimba-form/index.html",
+    "precache-manifest.41423fa17849413fd88b068f6d0b1f83.js": "/deployed-scrimba-form/precache-manifest.41423fa17849413fd88b068f6d0b1f83.js",
+    "service-worker.js": "/deployed-scrimba-form/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/deployed-scrimba-form/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.eab24d3c.chunk.css.map": "/deployed-scrimba-form/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.92746d62.chunk.js.LICENSE": "/deployed-scrimba-form/static/js/2.92746d62.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2680b93f.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.92746d62.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.4cb6f575.chunk.js"
+  ]
+}
